@@ -1,0 +1,30 @@
+{
+  "name": "Explib",
+  "description": "\"Importação de autores e livros na App Library\"",
+  "main": "",
+  "keywords": [
+    "avaliação",
+    "import",
+    "bower",
+    "git",
+    "codeigniter",
+    "gulp",
+    "js",
+    "php"
+  ],
+  "authors": [
+    "Madson Souza"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
